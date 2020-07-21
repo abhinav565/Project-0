@@ -1,0 +1,70 @@
+body{background-color:#cbf1f5;
+     margin: 0;text-align:center;font-family: 'Merriweather', serif;}
+h2{color:#40514e;padding-bottom:10px;}
+h3{color:#7ebdb4; font-family:comic sans MS;font-weight:bold;}
+li{font-family: cursive;color:#fc5185;}
+td{font-family: cursive;color:#fc5185;}
+hr{ background-color:white;
+border-style:dotted none none none;height:0;width:5%;
+border-color: grey;border-width: 5px;}
+a{color:#11999E;font-family: 'Merriweather', serif; margin:20px;20px;text-decoration: none;,margin-top:30px;}
+a:hover{color:black;}
+.top-container{;background-color:#cbf1f5;position:relative;height:602px;padding-top:20px;}
+
+   .img1{border-radius:100px;}
+  h1{text-align: center;color: #40514e;font-family:"Sacramento", cursive;font-size:218.75%;}
+.img1:hover{box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);opacity:0.55;}
+.intro{text-align: center;font-size:88%;font-style: italic;font-weight:400;
+font-family: 'Merriweather', serif;}
+.img2{margin-left:-320px;position: absolute;top:300px;padding-top:30px;}
+.img3{margin-left:-400px;position:absolute;top:200px;}
+.horiz{ background-color:white;
+border-style:dotted none none none;height:0;width:5%;
+border-color: grey;border-width: 5px;position: relative;top:350px;left:auto;}
+
+
+
+
+.bottom-container{background-color:white;}
+       .profilepic{border-radius:100px;width:170px;height:170px;margin-top:100px;}
+       .profilepic:hover{box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);opacity:0.55;}
+       .profile{height:150px;color:#336d88;}
+       .skills{height:1000px;}
+       .skill-row{width:50%;margin:100px auto 100px auto;text-align: left;line-height:40px;color:#40514e;margin-top:30px;}
+       .code{width:25%;float: left;margin-right: 30px;}
+       .football{width:30%;float:right;margin-left: 30px;margin-right: -30px;}
+
+
+.last-container{line-height:35px;height:400px;}
+     .contact-me{margin-top: 70px;margin-bottom:50px;}
+     .contactmsg{width:35%;margin:40px auto 60px;line-height:30px;}
+
+     .testbutton {padding-bottom: 100px;
+       text-decoration: none;
+    font-family: 'comic sans ms';
+   font-weight: bold;
+   color: #FFFFFF;
+   font-size: 15px;
+   text-shadow: 1px 2px 0px #91848A;
+   box-shadow: 1px 1px 1px #445159;
+   padding: 10px 25px;
+   -moz-border-radius: 40px;
+   -webkit-border-radius: 40px;
+   border-radius: 40px;
+   background: #3A6A8A;
+   background: linear-gradient(top,  #91598C,  #968C8E);
+   background: -ms-linear-gradient(top,  #91598C,  #968C8E);
+   background: -webkit-gradient(linear, left top, left bottom, from(#91598C), to(#968C8E));
+   background: -moz-linear-gradient(top,  #91598C,  #968C8E);
+ }
+ .testbutton:hover {
+   color: #EAF1FF;
+   background: #C6BED4;
+   background: linear-gradient(top,  #FCB1DA,  #C2C2C2);
+   background: -ms-linear-gradient(top,  #FCB1DA,  #C2C2C2);
+   background: -webkit-gradient(linear, left top, left bottom, from(#FCB1DA), to(#C2C2C2));
+   background: -moz-linear-gradient(top,  #FCB1DA,  #C2C2C2);
+ }
+
+ .footer{text-align: center;margin-left: auto;}
+ .copyright{color:white}
